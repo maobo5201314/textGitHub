@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ﻿我添加了一些东西
+=======
+﻿我添加了一些东xxxx西
+wohai xianjiale 
+>>>>>>> parent of ce6bb56... txt中删除了东西
